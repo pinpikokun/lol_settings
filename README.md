@@ -37,6 +37,6 @@
 - `C:\Riot Games\League of Legends\Config\PersistedSettings.json`をローカルPCに保存
 - lolクライアントからログアウト
 - 別アカウントでlolにログイン
-- ローカルPCに保存した`PersistedSettings.json`をいかに上書き保存
+- ローカルPCに保存した`PersistedSettings.json`を以下に上書き保存
     - `C:\Riot Games\League of Legends\Config\PersistedSettings.json`
 - プラクティスモードに入って動作確認
